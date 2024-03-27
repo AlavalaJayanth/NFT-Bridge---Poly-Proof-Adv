@@ -31,8 +31,6 @@ To successfully complete the Final Challenge, this project follows the provided 
 ### ERC721 Token
 - **Name**: BONKAI
 - **Symbol**: BAI
-- **Deployed Address**: [0x20a31686f84Fc9Da04175d7474a68Be0Ff9a699D](https://sepolia.etherscan.io/address/0x20a31686f84Fc9Da04175d7474a68Be0Ff9a699D)
-
 
 ###  Properties
 - `owner`: The address of the contract owner.
